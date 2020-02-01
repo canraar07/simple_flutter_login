@@ -1,6 +1,8 @@
 # simple_flutter
 
-A new Flutter application.
+Login sederhana menggunakan lib dio 
+Username = user1
+Password = password
 
 ## Getting Started
 
